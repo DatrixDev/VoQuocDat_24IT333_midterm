@@ -1,0 +1,7 @@
+*.o
+myls
+mysql
+.vscode/sftp.json
+.DS_Store
+
+.vscode/
