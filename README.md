@@ -15,7 +15,7 @@ Chương trình sử dụng các API hệ thống như `opendir()`, `readdir()`,
 ## 2. Các option hỗ trợ
 
 | Option | Chức năng                                       |
-
+| --- | --- |
 | `-A`   | Hiển thị file ẩn, trừ `.` và `..`               |
 | `-a`   | Hiển thị tất cả file, bao gồm `.` và `..`       |
 | `-c`   | Sử dụng thời gian thay đổi trạng thái file      |
